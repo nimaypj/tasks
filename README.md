@@ -1,4 +1,4 @@
-# 🤖 DocuAssist
+# 🤖 DocuGenie
 
 A powerful Retrieval-Augmented Generation (RAG) application that allows you to upload documents and ask questions about their content using open-source language models and embeddings.
 
