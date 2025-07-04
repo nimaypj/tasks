@@ -170,5 +170,3 @@ For large documents:
 
 
 Made by Nimay PJ
-
-# 🚀 Updated README on July 2
