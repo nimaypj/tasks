@@ -17,8 +17,8 @@ from dotenv import load_dotenv
 
 load_dotenv('.env', override=True)
 
-st.set_page_config(page_title="DocuAssist", page_icon="🤖", layout="wide")
-st.title("DocuAssist")
+st.set_page_config(page_title="DocuGenie", page_icon="🤖", layout="wide")
+st.title("DocuGenie")
 st.markdown("Upload PDF or CSV files and ask questions about their content!")
 
 # Hugging Face API setup
