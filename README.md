@@ -24,7 +24,7 @@ A powerful Retrieval-Augmented Generation (RAG) application that allows you to u
 
 1. **Clone the repository**
    ```bash
-   https://github.com/papcode/openRag.git
+   https://github.com/nimaypj/tasks.git
    cd ai-rag-assistant
    ```
 2. **Install dependencies**
@@ -38,7 +38,7 @@ A powerful Retrieval-Augmented Generation (RAG) application that allows you to u
    ```
 4. **Run the application**
    ```bash
-   streamlit run main_app.py
+   streamlit run chat_with_docs.py
    ```
 
 ##  🔧 Configuration
@@ -108,7 +108,7 @@ Use the sidebar to:
 ```
 
 ai-rag-assistant/
-├── main_app.py          # Main Streamlit application
+├── chat_with_docs.py          # Main Streamlit application
 ├── pdf_handler.py       # Document processing and indexing
 ├── requirements.txt     # Python dependencies
 ├── .env                 # Environment variables (create this)
@@ -119,7 +119,7 @@ ai-rag-assistant/
 
 ### Custom Models
 
-You can modify the model lists in `main_app.py` to use different language models or embedding models based on your needs.
+You can modify the model lists in `chat_with_docs.py` to use different language models or embedding models based on your needs.
 
  ### Performance Tuning
 
